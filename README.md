@@ -1,8 +1,8 @@
-# Front end testing with [CodeceptJS] (codecept.io)
+# Front end testing with CodeceptJS
 
 ## Tasks
 
-For www.harveynorman.com.au, write a front end automated script, where you;
+Using [CodeceptJS](codecept.io), write a front end automated script, targeting www.harveynorman.com.au where you;
 
 1. go to homepage,
 2. add any product to cart,
