@@ -2,7 +2,7 @@
 
 ## Tasks
 
-Using [CodeceptJS](codecept.io), write a front end automated script, targeting www.harveynorman.com.au where you;
+Using [CodeceptJS](https://codecept.io), write a front end automated script, targeting www.harveynorman.com.au where you;
 
 1. go to homepage,
 2. add any product to cart,
