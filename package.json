@@ -1,0 +1,24 @@
+{
+  "name": "qa-test-codecept",
+  "version": "1.0.0",
+  "description": "Using [CodeceptJS](https://codecept.io), write a front end automated script, targeting www.harveynorman.com.au where you;",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmacdonald-au/qa-test-codecept.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmacdonald-au/qa-test-codecept/issues"
+  },
+  "homepage": "https://github.com/cmacdonald-au/qa-test-codecept#readme",
+  "devDependencies": {
+    "codeceptjs": "^2.6.6",
+    "puppeteer": "^5.0.0"
+  }
+}
